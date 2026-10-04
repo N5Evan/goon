@@ -525,7 +525,7 @@ var Il2Cpp;
             return r("NMxfnsMGAxO", "void", []);
         },
         get getCorlib() {
-            return r("XGu_OHsGplb", "pointer", []);
+            return r("IBBWfrkBcnc", "pointer", []);
         },
         get imageGetAssembly() {
             return r("gMoRkDBTheD", "pointer", ["pointer"]);
